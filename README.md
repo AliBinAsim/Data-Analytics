@@ -28,9 +28,4 @@ The following preprocessing steps were performed in the notebook:
 
 This notebook is part of my data analytics portfolio and demonstrates my ability to prepare raw data for analysis or modeling. Proper preprocessing is a critical step in any data science or machine learning project.
 
----
 
-Let me know if you want to include:
-- A preview image of the notebook
-- A link to the dataset or Kaggle source
-- EDA or ML model extension
