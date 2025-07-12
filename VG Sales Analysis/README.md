@@ -32,7 +32,7 @@ Libraries: pandas, numpy, matplotlib, seaborn, plotly
 ## 📊 Key Insights
 
 - The **Action** genre and **PS2** platform are the most popular in terms of volume and sales.
-- **2006 to 2009** was a peak period for game releases.
+- **2006 to 2009** was peak period for game releases.
 - **North America** leads in regional sales, followed by Europe.
 - A few publishers dominate the market in global sales.
 
