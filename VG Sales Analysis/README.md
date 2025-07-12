@@ -24,7 +24,7 @@ This repository contains an exploratory data analysis (EDA) of the **Video Game 
 ```python
 Languages: Python  
 Tools: Jupyter Notebook  
-Libraries: pandas, numpy, matplotlib, seaborn
+Libraries: pandas, numpy, matplotlib, seaborn, plotly
 ```
 
 ## 📁 Files
