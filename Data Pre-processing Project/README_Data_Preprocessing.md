@@ -43,7 +43,7 @@ Libraries: pandas, numpy
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ali_Bin_Asim/data-preprocessing-portfolio.git
+   git clone https://github.com/AliBinAsim/Data-Analytics/blob/main/Data%20Pre-processing%20Project/Data%20Preprocessing.ipynb
    ```
 2. Open the notebook:
    ```bash
