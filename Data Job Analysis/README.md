@@ -51,7 +51,6 @@ Power BI was used to bring the cleaned data to life and present findings in an a
 ## 📁 Files Included
 
 - `Data Analysis Project.pbix` → Power BI Dashboard File
-- *(You can optionally add an Excel or CSV file if you want to share raw or cleaned data)*
 
 ---
 
