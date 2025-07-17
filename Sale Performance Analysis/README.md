@@ -48,3 +48,10 @@ The goal of this project is to uncover business insights from sales data and pre
   Users can filter data by time, product, region, and more.
 
 ---
+
+## 🗂 Dataset Source
+
+The dataset used in this project is from Kaggle:  
+🔗 [Dataco Smart Supply Chain Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+
+
