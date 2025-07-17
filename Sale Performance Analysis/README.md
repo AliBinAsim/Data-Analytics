@@ -23,10 +23,9 @@ The goal of this project is to uncover business insights from sales data and pre
 
 ## 📦 Skills Demonstrated
 
-- Power BI report development and DAX measures
 - Data cleaning and transformation (Excel & Pandas)
 - Designing user-friendly dashboards (Figma)
-- KPI tracking, comparative analysis, trend identification
+- Making Good Looking dashboards using Visualization (PowerBI)
 
 ---
 
